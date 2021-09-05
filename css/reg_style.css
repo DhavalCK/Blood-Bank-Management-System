@@ -1,0 +1,41 @@
+body {
+    padding-top:50px;
+}
+.container{
+    margin: auto;
+}
+fieldset {
+    border: 1px solid rgb(19, 1, 1); 
+    border-radius: 4px;
+    padding: 20px;
+    padding-left: 40px;
+    background: #fbfbfb;
+}
+legend {
+   color: rgb(79, 87, 95);
+   font-weight: 1000;
+   border-bottom: 2px solid rgb(190, 181, 181);
+   
+}
+.title{
+    margin-bottom: 20px;
+    
+}
+.form-control {
+    width: 95%;
+}
+label small {
+    color: #678 !important;
+}
+span.req {
+    color:maroon;
+    font-size: 112%;
+}
+
+.reg_f{
+    border: 1px solid rgb(19, 1, 1); 
+    border-radius: 4px;
+    padding: 20px;
+    padding-left: 40px;
+    background-color:aliceblue;  
+}
